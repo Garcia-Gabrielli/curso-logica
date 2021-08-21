@@ -1,2 +1,2 @@
-# curso-logica
-Projetos do curso de Lógica da programação, feito no Alura
+# curso-edutech
+Projetos do curso de programação, feito no Alura.
