@@ -1,2 +1,2 @@
 # curso-logica
-Projetos do curso de programação, feito no Alura.
+Projetos do curso de lógica, feito no Alura.
